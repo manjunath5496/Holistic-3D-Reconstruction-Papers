@@ -105,71 +105,64 @@
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(60).pdf" style="text-decoration:none;">Floor-SP: Inverse CAD for Floorplans by Sequential Room-wise Shortest Path </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(61).pdf" style="text-decoration:none;">DNS Performance and the Effectiveness of Caching</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(61).pdf" style="text-decoration:none;">Exploiting 2D Floorplan for Building-scale Panorama RGBD Alignment</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(62).pdf" style="text-decoration:none;">Phase Reconciliation for Contended In-Memory Transactions</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(62).pdf" style="text-decoration:none;">PolyFit: Polygonal Surface Reconstruction from Point Clouds</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(63).pdf" style="text-decoration:none;">Locating Cache Performance Bottlenecks Using Data Profiling</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(63).pdf" style="text-decoration:none;">Detecting and Matching Repeated Patterns for Automatic Geo-tagging in Urban Environments</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(64).pdf" style="text-decoration:none;">Understanding Real-World Concurrency Bugs in Go</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(64).pdf" style="text-decoration:none;">Plane-Based Content-Preserving Warps for Video Stabilization</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(65).pdf" style="text-decoration:none;">Dynamic Computation Migration
-in Distributed Shared Memory Systems </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(65).pdf" style="text-decoration:none;">Structure-Aware Shape Processing </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(66).pdf" style="text-decoration:none;">Extracting and Optimizing low-level bytecode from High-level verified Coq</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(66).pdf" style="text-decoration:none;">Planar Shape Detection at Structural Scales</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(67).pdf" style="text-decoration:none;">Multiprocessing with the Exokernel Operating System</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(67).pdf" style="text-decoration:none;">Supervised Fitting of Geometric Primitives to 3D Point Clouds</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(68).pdf" style="text-decoration:none;">Fast and Flexible Application-Level
-Networking on Exokernel Systems</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(68).pdf" style="text-decoration:none;">SceneCAD: Predicting Object Alignments and Layouts in RGB-D Scans</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(69).pdf" style="text-decoration:none;">Device Transparency: a New Model for Mobile Storage</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(69).pdf" style="text-decoration:none;">What the Back of the Object Looks Like: 3D Reconstruction from Line Drawings without Hidden Lines</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(70).pdf" style="text-decoration:none;">Eyo: Device-Transparent Personal Storage</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(70).pdf" style="text-decoration:none;">Recovering the Spatial Layout of Cluttered Rooms</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(71).pdf" style="text-decoration:none;">Measuring the Effects of Internet Path Faults on
-Reactive Routing</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(71).pdf" style="text-decoration:none;">Interpreting Line Drawings of Curved Objects</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(72).pdf" style="text-decoration:none;">A Distributed Hash Table</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(72).pdf" style="text-decoration:none;">Neural Procedural Reconstruction for Residential Buildings</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(73).pdf" style="text-decoration:none;">Firmament: fast, centralized cluster scheduling at scale</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(74).pdf" style="text-decoration:none;">Information Flow Control for Standard OS Abstractions</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(75).pdf" style="text-decoration:none;">UIA: A Global Connectivity Architecture
-for Mobile Personal Devices</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(76).pdf" style="text-decoration:none;">Specifying Crash Safety for Storage Systems</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(73).pdf" style="text-decoration:none;">Recognising Planes in a Single Image</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(74).pdf" style="text-decoration:none;">Holistic 3D Reconstruction of Urban Structures from Low-Rank Textures</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(75).pdf" style="text-decoration:none;">Recovering Surface Layout from an Image</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(76).pdf" style="text-decoration:none;">Camera Calibration with Lens Distortion from Low-rank Textures</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(77).pdf" style="text-decoration:none;">Using Crash Hoare Logic for Certifying the FSCQ File System</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(77).pdf" style="text-decoration:none;">Manhattan World: Orientation and Outlier Detection by Bayesian Inference</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(78).pdf" style="text-decoration:none;">An Approach to Improve the Performance
-of Insertion Sort Algorithm</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(79).pdf" style="text-decoration:none;">Integrity and access control in untrusted content distribution networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(78).pdf" style="text-decoration:none;">Associative3D: Volumetric Reconstruction from Sparse Views</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(79).pdf" style="text-decoration:none;">Manhattan-world Stereo</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(80).pdf" style="text-decoration:none;">Waddle: A proven interpreter and test framework
-for a subset of the Go semantics</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(80).pdf" style="text-decoration:none;">Piecewise Planar and Compact Floorplan Reconstruction from Images</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(81).pdf" style="text-decoration:none;">The Grid Roofnet:
-a Rooftop Ad Hoc Wireless Network</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(82).pdf" style="text-decoration:none;">Hare: a file system for non-cache-coherent multicores</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(81).pdf" style="text-decoration:none;">Constrained Structure and Motion From Multiple Uncalibrated Views of a Piecewise Planar Scene</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(82).pdf" style="text-decoration:none;">Example-Based 3D Object Reconstruction from Line Drawings</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(83).pdf" style="text-decoration:none;">Certifying a Crash-safe File System</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(84).pdf" style="text-decoration:none;">An Overview of Approaches Used In Focused Crawlers</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(83).pdf" style="text-decoration:none;">Detection and Matching of Rectilinear Structures</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(84).pdf" style="text-decoration:none;">Learning to Reconstruct 3D Manhattan Wireframes from a Single Image</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(85).pdf" style="text-decoration:none;">Network Layer Support for Overlay Networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(86).pdf" style="text-decoration:none;">Device-Transparent Personal Storage</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(85).pdf" style="text-decoration:none;">Line-Based Structure From Motion for Urban Environments</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(86).pdf" style="text-decoration:none;">A Divide-and-Conquer Approach to 3D Object Reconstruction from Line Drawings</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(87).pdf" style="text-decoration:none;">Bit-rate Selection in Wireless Networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(88).pdf" style="text-decoration:none;">Routing Tradeoffs in Dynamic Peer­to­peer Networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(89).pdf" style="text-decoration:none;">Jitk: A Trustworthy In-Kernel Interpreter Infrastructure</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(87).pdf" style="text-decoration:none;">BigSUR: Large-scale Structured Urban Reconstruction</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(88).pdf" style="text-decoration:none;">Complex 3D General Object Reconstruction from Line Drawings</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(89).pdf" style="text-decoration:none;">Geometric Reasoning for Single Image Structure Recovery</a></li>
   
   
-  <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(90).pdf" style="text-decoration:none;"> Applying Exokernel Principles to Conventional. Operating Systems</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(91).pdf" style="text-decoration:none;">User Authentication and Remote Execution
-Across Administrative Domains</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(90).pdf" style="text-decoration:none;"> Object Cut:
+Complex 3D Object Reconstruction Through Line Drawing Separation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Holistic-3D-Reconstruction-Papers/blob/master/h(91).pdf" style="text-decoration:none;">3D Reconstruction of Curved Objects from Single 2D Line Drawings</a></li>
 
  </ul>
